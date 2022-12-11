@@ -1,2 +1,2 @@
 # OwnWhere
-Creating own method .Where
+Creating own method MyWhere as analog .Where
